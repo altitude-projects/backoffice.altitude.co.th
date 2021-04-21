@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[135],{828:function(t,e,n){"use strict";n.r(e);var r=n(9),component=Object(r.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("GCategoryForm",{attrs:{"is-new":""}})],1)}),[],!1,null,null,null);e.default=component.exports}}]);

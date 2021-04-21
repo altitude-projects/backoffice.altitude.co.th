@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[101],{714:function(t,n,e){"use strict";e.r(n);var r={layout:"project"},l=e(9),component=Object(l.a)(r,(function(){var t=this.$createElement,n=this._self._c||t;return n("div",[n("GAdminForm",{attrs:{"is-new":""}})],1)}),[],!1,null,null,null);n.default=component.exports}}]);

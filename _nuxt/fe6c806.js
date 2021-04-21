@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[170],{836:function(t,e,n){"use strict";n.r(e);var o=n(9),component=Object(o.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("GNotificationMessageForm",{attrs:{"is-new":""}})],1)}),[],!1,null,null,null);e.default=component.exports}}]);

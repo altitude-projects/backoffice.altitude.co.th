@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[181],{767:function(e,n,t){"use strict";t.r(n);var c={},r=t(9),component=Object(r.a)(c,(function(){var e=this.$createElement;return(this._self._c||e)("GUnitTypeForm")}),[],!1,null,"6bbcc9ed",null);n.default=component.exports}}]);

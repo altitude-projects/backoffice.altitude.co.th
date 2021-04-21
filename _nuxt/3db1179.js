@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[119],{839:function(n,e,t){"use strict";t.r(e);var c=t(9),component=Object(c.a)({},(function(){var n=this.$createElement,e=this._self._c||n;return e("div",[e("GAnnouncementForm")],1)}),[],!1,null,null,null);e.default=component.exports}}]);

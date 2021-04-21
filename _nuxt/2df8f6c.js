@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[138],{829:function(n,t,e){"use strict";e.r(t);var r=e(9),component=Object(r.a)({},(function(){var n=this.$createElement,t=this._self._c||n;return t("div",[t("GConfigurationForm",{attrs:{"is-new":""}})],1)}),[],!1,null,null,null);t.default=component.exports}}]);

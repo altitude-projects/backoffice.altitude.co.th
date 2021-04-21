@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[147],{831:function(n,t,e){"use strict";e.r(t);var o=e(9),component=Object(o.a)({},(function(){var n=this.$createElement,t=this._self._c||n;return t("div",[t("GEventBookingForm",{attrs:{"is-new":""}})],1)}),[],!1,null,null,null);t.default=component.exports}}]);

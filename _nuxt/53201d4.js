@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[163],{835:function(n,t,e){"use strict";e.r(t);var r=e(9),component=Object(r.a)({},(function(){var n=this.$createElement;return(this._self._c||n)("GMenuLayoutForm",{attrs:{"is-new":""}})}),[],!1,null,null,null);t.default=component.exports}}]);

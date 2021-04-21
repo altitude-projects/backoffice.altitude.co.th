@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sign_in_callback", {data:[{}],fetch:{},mutations:[]});

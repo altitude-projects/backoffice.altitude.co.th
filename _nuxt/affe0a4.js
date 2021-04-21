@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[156],{833:function(n,e,t){"use strict";t.r(e);var r=t(9),component=Object(r.a)({},(function(){var n=this.$createElement,e=this._self._c||n;return e("div",[e("GIncidentTypesForm",{attrs:{"is-new":""}})],1)}),[],!1,null,null,null);e.default=component.exports}}]);
